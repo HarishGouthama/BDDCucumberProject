@@ -1,4 +1,6 @@
+@rameshsoft
 Feature: FB login use case
+	
 	Scenario: FB Testcase with correct UN and Pwd
 		Given User is in home page
 		When i enter UN "harish1992.it@gmail.com" and PWD "password"
